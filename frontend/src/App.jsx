@@ -3,7 +3,8 @@ import io from "socket.io-client";
 import { motion } from "framer-motion";
 
 // Backend URL
-const socket = io("http://localhost:3000", { autoConnect: false });
+const socket = io("https://genz-backend.onrender.com");
+
 
 export default function App() {
   const [status, setStatus] = useState("🔴 Not Connected");
