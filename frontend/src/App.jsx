@@ -3,7 +3,7 @@ import io from "socket.io-client";
 import { motion } from "framer-motion";
 
 // Backend URL
-const socket = io("https://genz-backend.onrender.com");
+const socket = io("https://jsh-53qu.onrender.com");
 
 
 export default function App() {
