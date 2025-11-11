@@ -1,4 +1,5 @@
 # 🌐 GenZ Real-Time Chat App 💬
+` Temporary Unable video audio chat but Text Chatting active ✅ `
 
 A **next-generation, full-stack chat application** with real-time messaging, image upload, and **audio/video call support** — built using **React + Node.js + Socket.io + WebRTC** and styled with **Tailwind CSS**.  
 Fully responsive, **mobile-friendly**, and deployable on **Render (backend)** & **Vercel (frontend)**.
@@ -8,7 +9,7 @@ Fully responsive, **mobile-friendly**, and deployable on **Render (backend)** & 
 ## 🚀 Live Demo
 
 🔹 **Frontend (Vercel):** [CHECK LIVE✅](https://genz-backend-eqxf.vercel.app/)  
-🔹 **Backend (Render):** []()
+🔹 **Backend (Render):** [Null]()
 
 ---
 
@@ -16,7 +17,7 @@ Fully responsive, **mobile-friendly**, and deployable on **Render (backend)** & 
 
 | Chat Interface | Incoming Call | Video Call |
 |----------------|----------------|-------------|
-| ![Chat UI](ui.png) | 
+| ![Chat UI](text-ui.png) | 
 ---
 
 ## ⚡ Features
