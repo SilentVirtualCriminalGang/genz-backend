@@ -7,8 +7,8 @@ Fully responsive, **mobile-friendly**, and deployable on **Render (backend)** & 
 
 ## 🚀 Live Demo
 
-🔹 **Frontend (Vercel):** [https://genz-chat.vercel.app](https://genz-backend-eqxf.vercel.app/)  
-🔹 **Backend (Render):** [](https://genz-backend.onrender.com)
+🔹 **Frontend (Vercel):** [CHECK LIVE✅](https://genz-backend-eqxf.vercel.app/)  
+🔹 **Backend (Render):** []()
 
 ---
 
@@ -16,8 +16,7 @@ Fully responsive, **mobile-friendly**, and deployable on **Render (backend)** & 
 
 | Chat Interface | Incoming Call | Video Call |
 |----------------|----------------|-------------|
-| ![Chat UI](./assets/chat-ui.png) | ![Incoming](./assets/incoming-call.png) | ![Video](./assets/video-ui.png) |
-
+| ![Chat UI](./assets/ui.png) | 
 ---
 
 ## ⚡ Features
@@ -45,9 +44,4 @@ Fully responsive, **mobile-friendly**, and deployable on **Render (backend)** & 
 
 ---
 
-## ⚙️ Setup & Installation
-
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/yourusername/genz-chat.git
-cd genz-chat
+## DEV by KAZI ASHRAFUZZAMAN
