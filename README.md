@@ -16,7 +16,7 @@ Fully responsive, **mobile-friendly**, and deployable on **Render (backend)** & 
 
 | Chat Interface | Incoming Call | Video Call |
 |----------------|----------------|-------------|
-| ![Chat UI](./assets/ui.png) | 
+| ![Chat UI](ui.png) | 
 ---
 
 ## ⚡ Features
